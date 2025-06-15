@@ -1,0 +1,17 @@
+# Visual Studio Code
+.vscode/
+.history/
+# Node.js dependencies
+node_modules/
+# Build output
+dist/
+# Logs
+logs/
+# Environment variables
+.env
+# Temporary files
+*.tmp
+# OS generated files
+.DS_Store
+
+./node_modules
